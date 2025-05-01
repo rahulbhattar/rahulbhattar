@@ -17,9 +17,4 @@ Hello! I'm Rahul Bhattar, a passionate Full Stack developer completed my Master'
 + 🔗 LinkedIn: [Rahul Bhattar](https://www.linkedin.com/in/bhattar-rahul-686a1b110/)
 + 💼 **Experience:** Full stack developer
 
-## skills
-
-#### Technologies
-- ![React JS](https://img.shields.io/badge/-Budgeting-3776AB?logo=budgeting&logoColor=white&style=flat)
-- ![Javascript](https://img.shields.io/badge/-Forecasting-276DC3?logo=Forecasting&logoColor=white&style=flat)
 
