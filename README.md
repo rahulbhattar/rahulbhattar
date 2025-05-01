@@ -22,6 +22,4 @@ Hello! I'm Rahul Bhattar, a passionate Full Stack developer completed my Master'
 #### Technologies
 - ![React JS](https://img.shields.io/badge/-Budgeting-3776AB?logo=budgeting&logoColor=white&style=flat)
 - ![Javascript](https://img.shields.io/badge/-Forecasting-276DC3?logo=Forecasting&logoColor=white&style=flat)
-- ![Cost Benefit Analysis](https://img.shields.io/badge/-CostBenefit%20Analysis-00BCD4?style=flat)
-- ![Financial Modeling](https://img.shields.io/badge/-FinancialModeling-3E4EB8?style=flat)
-- ![Discounted Cashflow](https://img.shields.io/badge/-DiscountedCashFlow-3E4EB8?style=flat)
+
